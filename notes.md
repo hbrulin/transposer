@@ -1,0 +1,2 @@
+- make nice html output
+- find a nice way to generate csv
